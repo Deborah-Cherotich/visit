@@ -1,0 +1,508 @@
+#sectionnav{
+    background-image: url(./images/backgroundimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    
+}
+#navtop{
+    border: 1px solid;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 30px;
+    padding: 20px;
+    background-color: white;
+    font-size: 20px;
+    
+    
+}
+#home{
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 30px;
+    border-color: peru;
+    color: peru;
+    width: 100px;
+}
+#world{
+    height: 70px;
+}
+
+#buttonup{
+    border: 1px solid;
+    border-radius: 20px;
+    background-color: peru;
+    padding: 20px;
+    width: 200px;
+    margin-left: 40%;
+}
+#arrow{
+height: 60px;
+border-radius: 50%;    
+
+}
+#navbutton{
+    border: 1px solid;
+    border-radius: 20px;
+    background-color: peru;
+    padding: 20px;
+    width: 200px; 
+    font-size: 30px;
+
+
+
+}
+#hometext{
+    font-size: 40px;
+    color: white;
+    padding-left: 300px;
+    padding-top: 70px;
+
+}
+#textnav{
+    font-size: 100px;
+}
+#buttonbook{
+    font-size: 40px;
+    border: 1px solid;
+    background-color: peru;
+    width: 300px;
+    border-radius: 30px;
+
+}
+#beauty{
+    text-align: center;
+
+    font-size: 60px;
+}
+#beautytxt{
+    padding-left: 40px;
+    text-align: center;
+    font-size: 20px;
+    
+}
+#places{
+    display: flex;
+    justify-content: space-between;
+
+}
+#tour{
+    height: 400px;
+    width: 600px;
+    border: 1px solid;
+    border-radius: 20px;
+}
+#star{
+    height: 50px;
+    width: 50px;
+}
+#staricon{
+    display: flex;
+}
+#price{
+    display: flex;
+    gap: 300px;
+}
+#place{
+    display: flex;
+}
+#arrow{
+    display: flex;
+    gap: 30px;
+    padding-left: 800px;
+
+}
+#arrows{
+    height: 100px;
+    width: 100px;
+}
+#feature{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 50px;
+}
+#adventure{
+    display: flex;
+    padding-left: 30px;
+    justify-content: space-between;
+}
+#icons{
+    width: 150px;
+    height: 100px;
+}
+#dottedarrow{
+    width: 200px;
+}
+#bodyadventure{
+    display: flex;
+    padding-left: 30px;
+    justify-content: space-around;
+}
+#discription{
+    font-size: 30px;
+}
+#country{
+    display: flex;
+    padding-left: 450px;
+    gap: 60px;
+    font-size: 20px;
+}
+#visitcountry{
+    border: 1px solid;
+    padding: 15px;
+    border-radius: 30px;
+    width: 10%;
+
+}
+#visitcountry1{
+    border: 1px solid;
+    border-color: peru;
+    padding: 15px;
+    border-radius: 30px;
+    width: 10%;
+    color: peru;
+
+}
+#itallyvanice{
+    display: grid;
+    gap: 20px;
+}
+#itallymilan{
+    display: grid;
+    gap: 20px;
+}
+#visitplaces{
+    display: flex;
+    padding-left: 300px;
+    gap: 50px;
+    padding-top: 40px;
+}
+#itally{
+    height: 380px;
+    width: 400px;
+
+}
+#itally1{
+    height: 800px;
+    width: 400px;
+
+}
+#sidearrows{
+    display: flex;
+    gap: 30px;
+    width: 300px;
+    height: 300px;
+}
+#clients{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+   
+}
+#sideicon{
+    height: 60px;
+    width: 60px;
+}
+#clienttext{
+    font-size: 50px;
+    padding-left: 80px;
+}
+#stars{
+    height: 200px;
+}
+#opinions{
+    display: flex;
+    justify-content: space-around;
+    
+}
+#person{
+    display: flex;
+    gap: 20px;
+}
+#client{
+    height: 80px;
+    width: 80px;
+    border: 1px solid;
+    border-radius: 20px;
+}
+#featuretext{
+    text-align: center;
+    font-size: 30px;
+}
+#florence{
+    background-image: url(./images/backgroundimage.jpg);
+     /* background-position: left;  */
+    
+    padding-left: 400px;
+    /* background-size: auto;
+    background-clip: border-box;
+    background-position-x: left; */
+    background-origin: content-box
+    ;
+    height: 600px;
+    width: 800px;
+    background-repeat: no-repeat;
+}
+#backgroundtext{
+    padding-left: 10px;
+    padding-top: 200px;
+    color: white;
+}
+#florencetour{
+    display: flex;
+    gap: 40px;
+
+}
+#middleblock{
+ display: flex; 
+    gap: 200px; 
+    padding-top: 80px;
+    background-color: rgb(240, 97, 8) ;
+    border: 1px solid;
+    color: aliceblue;
+    border-radius: 50px; 
+     padding: 40px; 
+     /* position: relative; 
+    text-align: center; */
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+#submit{
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 30px;
+width: 400px;
+    color: white;
+    background-color: pink;
+
+}
+#middletext{
+    font-size: 40px;
+}
+#form{
+    border: 1px solid;
+    background-color: antiquewhite;
+    padding: 20px;
+    color: black;
+    width: 800px;
+    
+
+}
+#visitus{
+    background-image: url(./images/image14.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px; 
+    
+background-position: center center;
+    
+   
+    
+}
+#login{
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 30px;
+    width: 40px;
+    display: flex;
+    gap: 80px;
+}
+#feat{
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 200px;
+}
+login{
+    border: 1px solid;
+    padding: 20px;
+    width: 400px;
+    border-radius: 20px;
+}
+#press3{
+    display: flex;
+    padding-left: 700px;
+    gap: 40px;
+}
+#press1{
+    padding: 20px;
+    border: 1px solid;
+    width: 100px;
+    border-radius: 30px;
+    background-color: blue;
+}
+#press{
+    padding: 20px;
+    border: 1px solid;
+    width: 100px;
+    border-radius: 30px;
+    background-color: yellow;
+}
+#email{
+    padding: 20px;
+    border: 1px solid;
+    width: 200px;
+    border-radius: 30px;
+    margin-left: 45%;
+    
+
+}
+#foot{
+    display: flex;
+    justify-content: space-between;
+}
+#last{
+    text-align: center;
+}
+@media only screen and (min-width:390px) and (max-height:1023px){
+
+    #sectionnav{
+        background-image: url(./images/backgroundimage.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 900px;
+        
+        
+    }
+    #navtop{
+        border: 1px solid;
+        padding-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        border-radius: 30px;
+        padding: 20px;
+        background-color: white;
+        font-size: 20px;
+        flex-wrap: wrap; 
+        
+    }
+    #world{
+        height: 70px;
+    }
+    
+    #buttonup{
+        border: 1px solid;
+        border-radius: 20px;
+        background-color: peru;
+        padding: 20px;
+        width: 200px;
+        margin-left: 40%;
+    }
+    #arrow{
+    height: 60px;
+    border-radius: 50%;    
+    
+    }
+    #navbutton{
+        border: 1px solid;
+        border-radius: 20px;
+        background-color: peru;
+        padding: 20px;
+        width: 200px; 
+        font-size: 30px;
+    
+    
+    
+    }
+    #hometext{
+        font-size: 40px;
+        color: white;
+        padding-left: 300px;
+        padding-top: 70px;
+    
+    }
+    #textnav{
+        font-size: 100px;
+    }
+    #buttonbook{
+        font-size: 40px;
+        border: 1px solid;
+        background-color: peru;
+        width: 300px;
+        border-radius: 30px;
+    
+    }
+    #beauty{
+        text-align: center;
+    
+        font-size: 60px;
+    }
+    #beautytxt{
+        padding-left: 40px;
+        text-align: center;
+        font-size: 20px;
+        
+    }
+    #places{
+        display: flex;
+        justify-content: space-between;
+    flex-wrap: wrap;
+    }
+    #tour{
+        height: 400px;
+        width: 600px;
+        border: 1px solid;
+        border-radius: 20px;
+    }
+    #star{
+        height: 50px;
+        width: 50px;
+    }
+    #staricon{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #price{
+        display: flex;
+        gap: 300px;
+    }
+    #place{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #arrow{
+        display: flex;
+        gap: 30px;
+        padding-left: 800px;
+
+    
+    }
+    #arrows{
+        height: 100px;
+        width: 100px;
+    }
+    #feature{
+        padding-top: 40px;
+        text-align: center;
+        font-size: 50px;
+    }
+    #adventure{
+        display: flex;
+        padding-left: 30px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    #icons{
+        width: 150px;
+        height: 100px;
+    }
+    #dottedarrow{
+        width: 200px;
+    }
+    #bodyadventure{
+        display: flex;
+        padding-left: 30px;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+    #discription{
+        font-size: 30px;
+    }
+
+
+
+
+}
+    
